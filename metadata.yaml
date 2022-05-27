@@ -1,5 +1,8 @@
 _repo: Cargoes-for-Crusoes_68092
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68092-h/images/cover.jpg
 creator:
   author:
     agent_name: Overton, Grant M. (Grant Martin)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '32469'
     url: http://www.gutenberg.org/2009/agents/32469
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68092#Cargoes-for-Crusoes
 gutenberg_issued: '2022-05-15'
 identifiers:
   gutenberg: '68092'
